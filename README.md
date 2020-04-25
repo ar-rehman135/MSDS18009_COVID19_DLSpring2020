@@ -5,11 +5,11 @@ This repository contains code and results for COVID-19 classification assignment
 
 Run on dataset [Link](https://drive.google.com/open?id=1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR) with Epoch 1:
 Accuracy: 86%
-Model: [Link](https://drive.google.com/open?id=1V2JbG9oCBF6U0i8V2oNHdyU4sC8MmOrF) 
+Model: [vgg16_FC_ONLY](https://drive.google.com/open?id=1V2JbG9oCBF6U0i8V2oNHdyU4sC8MmOrF) 
 
 # RESNET18
 
 Run on dataset [Link](https://drive.google.com/open?id=1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR) with Epoch 1:
 Accuracy: 86%
-Model: [Link](https://drive.google.com/open?id=1_pjAdD9P_FARijgQocxYi3sEzitZI0XF) 
+Model: [res18_FC_ONLY](https://drive.google.com/open?id=1_pjAdD9P_FARijgQocxYi3sEzitZI0XF) 
 
